@@ -1,0 +1,24 @@
+Instrucciones Triqui:
+
+-El jugador (X) competirá contra la IA (O) y ganara quien alinee tres de sus figuras en linea recta. 
+	  0 1 2
+	  _ _ _
+	0|O|O|X|
+	  _ _ _
+	1| |O| |	
+	  _ _ _
+	2|X|X|X|
+	  _ _ _
+	X ha ganado!
+
+-El jugador (X) siempre empezara el juego y decidirá la posición en donde poner su figura dando las coordenadas en x y
+ EJ: 
+	  0 1 2
+	  _ _ _
+	0| | | |
+	  _ _ _
+	1| | |X|	Aquí el movimiento ingresado seria: 1 2
+	  _ _ _
+	2| | | |
+	  _ _ _
+
